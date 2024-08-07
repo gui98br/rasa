@@ -1,3 +1,3 @@
 # rasa
 
-https://mybinder.org/v2/gh/gui98br/rasa/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gui98br/rasa/HEAD)
